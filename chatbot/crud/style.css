@@ -1,0 +1,9 @@
+
+.table{
+    position: absolute;
+    background-color: #5e5e5e;
+    padding: 10%;
+    width: 79%;
+    background-size:100%;
+    text-align: left;
+}
